@@ -1,7 +1,6 @@
 # Python Snake Game - Tkinter Implementation
 
 ### Video Demo: [Click Here](<https://youtu.be/m8Lyh7qgK8A>)
-#### Video Demo: [https://youtu.be/m8Lyh7qgK8A?si=PDXDgvzFYgdWd_9B](<https://youtu.be/m8Lyh7qgK8A?si=PDXDgvzFYgdWd_9B>)
 
 This repository contains a Python implementation of the classic Snake game utilizing the Tkinter module for the graphical user interface. The project's primary goal is to offer an engaging and interactive gaming experience while demonstrating fundamental game development concepts in Python.
 
@@ -22,9 +21,6 @@ Click on a screenshot to view it in full size.
     </a>
     <a href="photos/image4.png" target="_blank">
         <img src="photos/image4.png" alt="Screenshot 4" style="width: 200px; height: auto;">
-    </a>
-    <a href="photos/image5.png" target="_blank">
-        <img src="photos/image5.png" alt="Screenshot 5" style="width: 200px; height: auto;">
     </a>
 </div>
 
